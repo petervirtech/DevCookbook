@@ -1,7 +1,7 @@
 ---
-name: [Full Name]
-residence: [City, country]
-category: {appetizer, entree, dessert, other}
+name: Peter Kraus
+residence: Netherlands
+category: appetizer
 ---
 
 # [Recipe Name]
