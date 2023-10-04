@@ -1,7 +1,7 @@
 ---
 name: Peter Kraus
 residence: Netherlands
-category: sidedish
+category: other
 ---
 
 # Roerbakgroente met bloemkool
